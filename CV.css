@@ -10,6 +10,7 @@ body{
   width: 100vw;
   border-style: hidden;
   z-index: 101;
+  position: relative;
 }
 
 .headerV2 {
